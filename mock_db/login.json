@@ -1,0 +1,21 @@
+{	
+	"productos": [
+        {
+            "id": "001",
+            "nombre": "procucto 1",
+            "precio": "23.39"                  
+        },
+        {
+            "id": "002",
+            "nombre": "procucto 2",
+            "precio": "23.33"                  
+        }	
+    ],
+    "login": 
+        {
+            "login": "lmgomez.saavedra@gmail.com",
+            "password": "password",
+            "token": "GDSJHFNSDIY8789FIHSDNIYYUGHJEI87383298904HRJHFJKSDHJK",
+            "role":"ADMIN"
+        }	
+}
